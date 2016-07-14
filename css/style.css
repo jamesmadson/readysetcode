@@ -1,10 +1,40 @@
-h1{
+#section-one .left{
+padding: 5%;
 
-color: white;
+
+width: 40%;
+display: inline-block;
+float: left;
+
+}
+#section-one .right{
+height: 500px;
+display: inline-block;
+background-image: url("../img/junecodecamp.jpg");
+background-size: cover;
+width: 50%;
+float: right;
+
 
 
 }
-foooter{
-  background-color:#cccccc;
-  
+#section-one{
+width: 100%;
+display: block;
+overflow: hidden;
+background-color: yellow;
+
+
+
+}
+
+.intro{
+font-family: sans-serif;
+font-size: 20px;
+
+}
+.aligned-text{
+
+font-family: sans-serif;
+font-size: 16px;
 }
