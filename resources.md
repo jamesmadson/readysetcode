@@ -3,6 +3,7 @@
 #Github
 http://www.github.com
 http://education.github.com
+http://atom.io
 
 #Help
 http://www.css-tricks.com
