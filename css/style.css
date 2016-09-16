@@ -1,3 +1,7 @@
+body {
+    font-family: 'Helvetica-Neue', Helvetica, Arial, sans-serif;
+}
+
 #section-one .left{
 padding: 5%;
 width: 40%;
